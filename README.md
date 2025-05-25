@@ -68,7 +68,11 @@ https://drive.google.com/file/d/1CHtcqM06Bsf3XDyIyMHVtukB0G8BqTMf/view?usp=drive
 
 
 
-https://github.com/user-attachments/assets/396f050c-2962-4c2a-a6b9-19b057acae72
+https://github.com/user-attachments/assets/24c1a147-906f-4aae-86f6-13b0cfca3fcc
+
+
+
+
 
 
 Prompt-2:
@@ -106,7 +110,7 @@ Add Time and Motion Elements:
 Incorporate aspects like timing, transitions, or camera movement in your prompts.
 
 
-https://github.com/user-attachments/assets/cd547df6-98cd-4e6c-9dee-1cc3cab59d6d
+
 
 
 Example prompt: "A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky."
