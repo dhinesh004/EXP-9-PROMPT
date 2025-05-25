@@ -65,15 +65,27 @@ Prompt-1:
 G-Drive link:
 https://drive.google.com/file/d/1CHtcqM06Bsf3XDyIyMHVtukB0G8BqTMf/view?usp=drive_link
 
+
+
+
+https://github.com/user-attachments/assets/396f050c-2962-4c2a-a6b9-19b057acae72
+
+
 Prompt-2:
 G-Drive link: 
 https://drive.google.com/file/d/1EzWmXUpHk7GYPD7g3wtOj0dFQqUW1Whd/view?usp=drive_link
 
+
+
+https://github.com/user-attachments/assets/203e52d5-575e-4679-80ce-fb19ce6ca390
+
+
 Conclusion:
 The experiment successfully demonstrated that structured prompting plays a crucial role in the quality and style of AI-generated videos. The simple prompt generated basic but accurate visuals, while the detailed prompt significantly enhanced realism, environment quality, and motion coherence. Tools like Imagen Video and Make-A-Video showed strong performance when aligned with their strengths.
 
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. 
 
+Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -81,27 +93,23 @@ Synthesia
 Pictory
 DeepBrain
 Understand the capabilities and limitations of each tool before starting the experiment.
+
 Create Simple Prompts for Video Generation:
 Start with simple prompts to generate short videos. These prompts should describe the general subject or activity.
 Example prompt: "A person walking in a park."
+
 Experiment with More Detailed Prompts:
 Gradually refine your prompts by adding specific details, such as the setting, lighting, actions, or expressions.
 Example prompt: "A person in a red jacket walking along a sunny park path, with birds flying in the sky, and a dog running beside them."
+
 Add Time and Motion Elements:
 Incorporate aspects like timing, transitions, or camera movement in your prompts.
+
+
+https://github.com/user-attachments/assets/cd547df6-98cd-4e6c-9dee-1cc3cab59d6d
+
+
 Example prompt: "A time-lapse video of the sun setting over the ocean, with the camera slowly zooming out from a beach, capturing the waves and changing colors in the sky."
-Test Different Video Styles:
-
-Experiment with different styles of video generation, such as animations, live-action, cinematic, or artistic.
-Example prompt: "An animated scene of a futuristic city at night, with glowing neon lights, flying cars, and a bustling crowd of people."
-Iterate and Adjust Prompts:
-
-Evaluate the generated video and refine the prompt if needed. Consider aspects like the pacing, transitions, and consistency of motion in the video.
-
-Example: After reviewing, refine the prompt to add more details about the camera angles or actions: "A cinematic shot of a car speeding through a neon-lit city at night, with reflections on the wet street and a high-speed chase scene."
-Generate Multiple Versions:
-
-Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
@@ -109,13 +117,4 @@ Save different versions of the videos and compare the results to understand how 
 
 # Result: The Prompt of the above task executed successfully
 
-
-
-
-
-
-
-
-
-# Result:
 
